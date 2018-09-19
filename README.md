@@ -1,8 +1,8 @@
 # Sample BaseStructure
 
-+++++++++++++++
++++++++++++++++++++++++++ 
 IBaseView
-+++++++++++++++
++++++++++++++++++++++++++ 
 
     void initData(@Nullable final Bundle bundle);
 
