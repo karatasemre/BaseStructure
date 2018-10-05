@@ -19,7 +19,7 @@ IBaseView
 
 
 +++++++++++++++++++++++++
-BaseActivity
+# BaseActivity
 +++++++++++++++++++++++++
 
 public abstract class BaseActivity extends AppCompatActivity implements IBaseView {
@@ -71,7 +71,7 @@ public abstract class BaseActivity extends AppCompatActivity implements IBaseVie
 
 
 ++++++++++++++++++++++++
-BaseFragment
+# BaseFragment
 ++++++++++++++++++++++++
 
 public abstract class BaseFragment extends Fragment implements IBaseView {
